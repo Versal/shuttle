@@ -6,7 +6,7 @@
             :dependencies [[org.clojure/clojure "1.4.0"]
                            [jayq "2.0.0"]
                            [compojure "1.1.5"]
-                           [yayitswei/yonder "0.0.2-SNAPSHOT"]
+                           [yayitswei/yonder "0.0.3-SNAPSHOT"]
                            [ring-middleware-format "0.2.4"]
                            [org.clojure/clojurescript "0.0-1576"]
                            [org.clojure/google-closure-library-third-party "0.0-2029"]]
